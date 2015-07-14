@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 57fb3e6309025534ab3cc241daa8b80c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Stairs_Ceiling
+    100004: Stairs_ColliderMesh
+    100006: Stairs_Floor
+    100008: Stairs_Floor_Top
+    100010: Stairs_Stairs1
+    100012: Stairs_Stone_Border
+    100014: Stairs_StoneFrame
+    100016: Stairs_topdown_solid_walls
+    100018: Stairs_topdown_solid_walls topdown_solid_Side
+    100020: Stairs_Walls
+    100022: Stairs_Wood_Border
+    400000: //RootNode
+    400002: Stairs_Ceiling
+    400004: Stairs_ColliderMesh
+    400006: Stairs_Floor
+    400008: Stairs_Floor_Top
+    400010: Stairs_Stairs1
+    400012: Stairs_Stone_Border
+    400014: Stairs_StoneFrame
+    400016: Stairs_topdown_solid_walls
+    400018: Stairs_topdown_solid_walls topdown_solid_Side
+    400020: Stairs_Walls
+    400022: Stairs_Wood_Border
+    2300000: Stairs_Ceiling
+    2300002: Stairs_ColliderMesh
+    2300004: Stairs_Floor
+    2300006: Stairs_Floor_Top
+    2300008: Stairs_Stairs1
+    2300010: Stairs_Stone_Border
+    2300012: Stairs_StoneFrame
+    2300014: Stairs_topdown_solid_walls
+    2300016: Stairs_topdown_solid_walls topdown_solid_Side
+    2300018: Stairs_Walls
+    2300020: Stairs_Wood_Border
+    3300000: Stairs_Ceiling
+    3300002: Stairs_ColliderMesh
+    3300004: Stairs_Floor
+    3300006: Stairs_Floor_Top
+    3300008: Stairs_Stairs1
+    3300010: Stairs_Stone_Border
+    3300012: Stairs_StoneFrame
+    3300014: Stairs_topdown_solid_walls
+    3300016: Stairs_topdown_solid_walls topdown_solid_Side
+    3300018: Stairs_Walls
+    3300020: Stairs_Wood_Border
+    4300000: Stairs_Ceiling
+    4300002: Stairs_ColliderMesh
+    4300004: Stairs_Floor
+    4300006: Stairs_Floor_Top
+    4300008: Stairs_Stairs1
+    4300010: Stairs_Stone_Border
+    4300012: Stairs_StoneFrame
+    4300014: Stairs_topdown_solid_walls
+    4300016: Stairs_topdown_solid_walls topdown_solid_Side
+    4300018: Stairs_Walls
+    4300020: Stairs_Wood_Border
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

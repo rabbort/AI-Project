@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 403e603aaa632f146b95bb14eb0db10e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Large_Room_4_Doors_B_Ceiling_2
+    100002: Large_Room_4_Doors_B_COLLIDER
+    100004: Large_Room_4_Doors_B_COLUMN Column
+    100006: Large_Room_4_Doors_B_COLUMN Support_Beams_45g
+    100008: Large_Room_4_Doors_B_Floor
+    100010: Large_Room_4_Doors_B_Stone_Border
+    100012: Large_Room_4_Doors_B_StoneFrame
+    100014: Large_Room_4_Doors_B_Topdown_Solid_walls
+    100016: Large_Room_4_Doors_B_Walls
+    100018: Large_Room_4_Doors_B_Wood_Border
+    100020: //RootNode
+    400000: Large_Room_4_Doors_B_Ceiling_2
+    400002: Large_Room_4_Doors_B_COLLIDER
+    400004: Large_Room_4_Doors_B_COLUMN Column
+    400006: Large_Room_4_Doors_B_COLUMN Support_Beams_45g
+    400008: Large_Room_4_Doors_B_Floor
+    400010: Large_Room_4_Doors_B_Stone_Border
+    400012: Large_Room_4_Doors_B_StoneFrame
+    400014: Large_Room_4_Doors_B_Topdown_Solid_walls
+    400016: Large_Room_4_Doors_B_Walls
+    400018: Large_Room_4_Doors_B_Wood_Border
+    400020: //RootNode
+    2300000: Large_Room_4_Doors_B_Ceiling_2
+    2300002: Large_Room_4_Doors_B_COLLIDER
+    2300004: Large_Room_4_Doors_B_COLUMN Column
+    2300006: Large_Room_4_Doors_B_COLUMN Support_Beams_45g
+    2300008: Large_Room_4_Doors_B_Floor
+    2300010: Large_Room_4_Doors_B_Stone_Border
+    2300012: Large_Room_4_Doors_B_StoneFrame
+    2300014: Large_Room_4_Doors_B_Topdown_Solid_walls
+    2300016: Large_Room_4_Doors_B_Walls
+    2300018: Large_Room_4_Doors_B_Wood_Border
+    3300000: Large_Room_4_Doors_B_Ceiling_2
+    3300002: Large_Room_4_Doors_B_COLLIDER
+    3300004: Large_Room_4_Doors_B_COLUMN Column
+    3300006: Large_Room_4_Doors_B_COLUMN Support_Beams_45g
+    3300008: Large_Room_4_Doors_B_Floor
+    3300010: Large_Room_4_Doors_B_Stone_Border
+    3300012: Large_Room_4_Doors_B_StoneFrame
+    3300014: Large_Room_4_Doors_B_Topdown_Solid_walls
+    3300016: Large_Room_4_Doors_B_Walls
+    3300018: Large_Room_4_Doors_B_Wood_Border
+    4300000: Large_Room_4_Doors_B_Ceiling_2
+    4300002: Large_Room_4_Doors_B_COLLIDER
+    4300004: Large_Room_4_Doors_B_COLUMN Column
+    4300006: Large_Room_4_Doors_B_COLUMN Support_Beams_45g
+    4300008: Large_Room_4_Doors_B_Floor
+    4300010: Large_Room_4_Doors_B_Stone_Border
+    4300012: Large_Room_4_Doors_B_StoneFrame
+    4300014: Large_Room_4_Doors_B_Topdown_Solid_walls
+    4300016: Large_Room_4_Doors_B_Walls
+    4300018: Large_Room_4_Doors_B_Wood_Border
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

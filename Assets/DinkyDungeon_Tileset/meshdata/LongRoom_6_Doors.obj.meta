@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 6349d3ca6d791dc408eac765156b175a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Long-Room_6_Doors_Ceiling_1
+    100002: Long-Room_6_Doors_COLLIDER
+    100004: Long-Room_6_Doors_Floor
+    100006: Long-Room_6_Doors_Stone_Border
+    100008: Long-Room_6_Doors_StoneFrame
+    100010: Long-Room_6_Doors_Topdown_Solid_walls
+    100012: Long-Room_6_Doors_Walls
+    100014: Long-Room_6_Doors_Wood_Border
+    100016: //RootNode
+    400000: Long-Room_6_Doors_Ceiling_1
+    400002: Long-Room_6_Doors_COLLIDER
+    400004: Long-Room_6_Doors_Floor
+    400006: Long-Room_6_Doors_Stone_Border
+    400008: Long-Room_6_Doors_StoneFrame
+    400010: Long-Room_6_Doors_Topdown_Solid_walls
+    400012: Long-Room_6_Doors_Walls
+    400014: Long-Room_6_Doors_Wood_Border
+    400016: //RootNode
+    2300000: Long-Room_6_Doors_Ceiling_1
+    2300002: Long-Room_6_Doors_COLLIDER
+    2300004: Long-Room_6_Doors_Floor
+    2300006: Long-Room_6_Doors_Stone_Border
+    2300008: Long-Room_6_Doors_StoneFrame
+    2300010: Long-Room_6_Doors_Topdown_Solid_walls
+    2300012: Long-Room_6_Doors_Walls
+    2300014: Long-Room_6_Doors_Wood_Border
+    3300000: Long-Room_6_Doors_Ceiling_1
+    3300002: Long-Room_6_Doors_COLLIDER
+    3300004: Long-Room_6_Doors_Floor
+    3300006: Long-Room_6_Doors_Stone_Border
+    3300008: Long-Room_6_Doors_StoneFrame
+    3300010: Long-Room_6_Doors_Topdown_Solid_walls
+    3300012: Long-Room_6_Doors_Walls
+    3300014: Long-Room_6_Doors_Wood_Border
+    4300000: Long-Room_6_Doors_Ceiling_1
+    4300002: Long-Room_6_Doors_COLLIDER
+    4300004: Long-Room_6_Doors_Floor
+    4300006: Long-Room_6_Doors_Stone_Border
+    4300008: Long-Room_6_Doors_StoneFrame
+    4300010: Long-Room_6_Doors_Topdown_Solid_walls
+    4300012: Long-Room_6_Doors_Walls
+    4300014: Long-Room_6_Doors_Wood_Border
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0250000004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

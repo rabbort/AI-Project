@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 8eb0ded37924ff14eab3fcd24433e0cb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Room_1_Door_Ceiling
+    100002: Room_1_Door_Ceiling Ceiling1
+    100004: Room_1_Door_ColliderMesh
+    100006: Room_1_Door_Floor
+    100008: Room_1_Door_Stone_Border
+    100010: Room_1_Door_StoneFrame
+    100012: Room_1_Door_Support_Beams
+    100014: Room_1_Door_Topdown_Solid_walls
+    100016: Room_1_Door_Topdown_Solid_walls topdown_solid_Side
+    100018: Room_1_Door_Walls
+    100020: Room_1_Door_Wood_Border
+    100022: //RootNode
+    400000: Room_1_Door_Ceiling
+    400002: Room_1_Door_Ceiling Ceiling1
+    400004: Room_1_Door_ColliderMesh
+    400006: Room_1_Door_Floor
+    400008: Room_1_Door_Stone_Border
+    400010: Room_1_Door_StoneFrame
+    400012: Room_1_Door_Support_Beams
+    400014: Room_1_Door_Topdown_Solid_walls
+    400016: Room_1_Door_Topdown_Solid_walls topdown_solid_Side
+    400018: Room_1_Door_Walls
+    400020: Room_1_Door_Wood_Border
+    400022: //RootNode
+    2300000: Room_1_Door_Ceiling
+    2300002: Room_1_Door_Ceiling Ceiling1
+    2300004: Room_1_Door_ColliderMesh
+    2300006: Room_1_Door_Floor
+    2300008: Room_1_Door_Stone_Border
+    2300010: Room_1_Door_StoneFrame
+    2300012: Room_1_Door_Support_Beams
+    2300014: Room_1_Door_Topdown_Solid_walls
+    2300016: Room_1_Door_Topdown_Solid_walls topdown_solid_Side
+    2300018: Room_1_Door_Walls
+    2300020: Room_1_Door_Wood_Border
+    3300000: Room_1_Door_Ceiling
+    3300002: Room_1_Door_Ceiling Ceiling1
+    3300004: Room_1_Door_ColliderMesh
+    3300006: Room_1_Door_Floor
+    3300008: Room_1_Door_Stone_Border
+    3300010: Room_1_Door_StoneFrame
+    3300012: Room_1_Door_Support_Beams
+    3300014: Room_1_Door_Topdown_Solid_walls
+    3300016: Room_1_Door_Topdown_Solid_walls topdown_solid_Side
+    3300018: Room_1_Door_Walls
+    3300020: Room_1_Door_Wood_Border
+    4300000: Room_1_Door_Ceiling
+    4300002: Room_1_Door_Ceiling Ceiling1
+    4300004: Room_1_Door_ColliderMesh
+    4300006: Room_1_Door_Floor
+    4300008: Room_1_Door_Stone_Border
+    4300010: Room_1_Door_StoneFrame
+    4300012: Room_1_Door_Support_Beams
+    4300014: Room_1_Door_Topdown_Solid_walls
+    4300016: Room_1_Door_Topdown_Solid_walls topdown_solid_Side
+    4300018: Room_1_Door_Walls
+    4300020: Room_1_Door_Wood_Border
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 9d27ef68ccc79134983b2854c4e75f89
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: X_-_Tile_Ceiling
+    100004: X_-_Tile_ColliderMesh
+    100006: X_-_Tile_Floor
+    100008: X_-_Tile_Stone_Border
+    100010: X_-_Tile_Support_beams
+    100012: X_-_Tile_topdown_solid_walls
+    100014: X_-_Tile_Walls
+    100016: X_-_Tile_Wood_Border
+    400000: //RootNode
+    400002: X_-_Tile_Ceiling
+    400004: X_-_Tile_ColliderMesh
+    400006: X_-_Tile_Floor
+    400008: X_-_Tile_Stone_Border
+    400010: X_-_Tile_Support_beams
+    400012: X_-_Tile_topdown_solid_walls
+    400014: X_-_Tile_Walls
+    400016: X_-_Tile_Wood_Border
+    2300000: X_-_Tile_Ceiling
+    2300002: X_-_Tile_ColliderMesh
+    2300004: X_-_Tile_Floor
+    2300006: X_-_Tile_Stone_Border
+    2300008: X_-_Tile_Support_beams
+    2300010: X_-_Tile_topdown_solid_walls
+    2300012: X_-_Tile_Walls
+    2300014: X_-_Tile_Wood_Border
+    3300000: X_-_Tile_Ceiling
+    3300002: X_-_Tile_ColliderMesh
+    3300004: X_-_Tile_Floor
+    3300006: X_-_Tile_Stone_Border
+    3300008: X_-_Tile_Support_beams
+    3300010: X_-_Tile_topdown_solid_walls
+    3300012: X_-_Tile_Walls
+    3300014: X_-_Tile_Wood_Border
+    4300000: X_-_Tile_Ceiling
+    4300002: X_-_Tile_ColliderMesh
+    4300004: X_-_Tile_Floor
+    4300006: X_-_Tile_Stone_Border
+    4300008: X_-_Tile_Support_beams
+    4300010: X_-_Tile_topdown_solid_walls
+    4300012: X_-_Tile_Walls
+    4300014: X_-_Tile_Wood_Border
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
