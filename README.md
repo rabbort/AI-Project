@@ -4,6 +4,7 @@ Meow is a game developed as part of a course on AI programming for games. It was
 
 - [Gameplay](#gameplay)
 - [AI Techniques](#ai-techniques)
+- [Link to source files](https://github.com/rabbort/AI-Project/tree/master/Assets/Scripts)
 
 ## Gameplay
 
